@@ -130,3 +130,10 @@
     display: flex;
     gap: 20px;
   }
+
+  header img {
+    width: 128px;
+    height: 128px;
+    display: block;
+    margin: 0 auto;
+  }
